@@ -26,7 +26,7 @@ The iris dataset was loaded using seaborn's `load_dataset` function, which conta
 
 ## Data Exploration and Preprocessing
 
-1. The dataset was loaded using seaborn's `load_dataset` function as a DataFrame, and its first 5 rows were displayed using `df.head()`.
+1. The dataset was loaded using seaborn's `IRIS Dataset.csv` function as a DataFrame, and its first 5 rows were displayed using `df.head()`.
 2. The 'species' column in the DataFrame was encoded to numerical values using `pd.factorize(df['species'])`.
 3. Descriptive statistics for the dataset were displayed using `df.describe()`.
 4. Missing values in the dataset were checked using `df.isna().sum()`.

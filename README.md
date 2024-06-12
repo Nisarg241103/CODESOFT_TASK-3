@@ -22,7 +22,7 @@ The following important libraries were used for this project:
 
 ## Dataset
 
-The iris dataset was loaded using seaborn's `load_dataset` function, which contains information about iris flowers, including sepal length, sepal width, petal length, petal width, and species.
+The iris dataset was loaded using seaborn's `IRIS Dataset.csv` function, which contains information about iris flowers, including sepal length, sepal width, petal length, petal width, and species.
 
 ## Data Exploration and Preprocessing
 
